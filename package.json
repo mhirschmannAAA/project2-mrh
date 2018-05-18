@@ -1,0 +1,28 @@
+{
+  "name": "project2-mrh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ra.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1",
+    "nightmare": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhirschmannAAA/project2-mrh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhirschmannAAA/project2-mrh/issues"
+  },
+  "homepage": "https://github.com/mhirschmannAAA/project2-mrh#readme"
+}
