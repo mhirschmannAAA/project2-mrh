@@ -59,7 +59,7 @@ font-weight: bold;
 }
 
 #label {
-    color: white;
+    color: black;
     font-size: 25px;
 }
 
@@ -73,22 +73,12 @@ font-weight: bold;
     background-color: green;
 }
 
-/* .map {
-    width: 425px;
-    height: 400px;
-    float: right;
-    overflow: hidden;   
-} */
-
-/* #display {
-
-    background-image: url("assets/images/unlevel.jpg");
-    background-size: cover;
-    display: block;
-    width: 100%;
-    min-height: 700px;
-    margin-left: -220px;
-} */
+.dropdown {
+    background-color: aquamarine;
+    width: 200px;
+    height: 120px;
+    overflow: auto;
+}
 
 .view{
     background-color: black;
