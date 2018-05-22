@@ -52,10 +52,8 @@ p {
 #displayTemp {
 text-align:right;
 font-size: 15px;
-color: black;
+color: white;
 padding-right: 40px;
-padding-top: 20px;
-font-weight: bold;
 }
 
 #label {
